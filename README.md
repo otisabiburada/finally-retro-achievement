@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/images/banner.png" alt="RetroAchievements Toasts" width="720"></p>
+
 # RetroAchievements Toasts
 
 Achievement popups for **RetroAchievements** on Steam Deck (Decky Loader). When your emulator unlocks an
@@ -6,6 +8,13 @@ achievement, a popup appears over the game, with sound, the real badge, points a
 It reuses the popup engine of the [Finally Achievement Plugin](https://github.com/otisabi/finally-achievement-plugin)
 by otisabi (BSD-3-Clause): 18 templates, colors, glow, size, position, rarity tiers and sounds. The Steam
 detection was replaced with a RetroAchievements watcher, so it only reacts to RetroAchievements unlocks.
+
+## Look
+
+<p align="center"><img src="docs/images/tiers.png" alt="Common, rare and ultra rare popups" width="520"></p>
+
+Illustrative mockups of the popup tiers (common, rare, ultra rare, with the points badge). The real popups come in
+18 templates; colors, size, position and sounds are adjustable in the panel.
 
 ## Install
 
