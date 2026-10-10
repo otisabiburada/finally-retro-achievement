@@ -1,0 +1,20 @@
+{
+  "name": "RetroAchievements Toasts",
+  "author": "SANSO",
+  "description": "Steam-style achievement popups for RetroAchievements: when your emulator unlocks an achievement, a popup appears over the game.",
+  "version": "1.3.0",
+  "api_version": 1,
+  "publish": {
+    "tags": [
+      "achievement",
+      "notification",
+      "retro",
+      "emulation",
+      "steamos"
+    ],
+    "description": "RetroAchievements unlock popups (Xbox/PlayStation-style templates, rarity tiers, sounds) for emulators on Steam Deck.",
+    "image": ""
+  },
+  "main": "main.py",
+  "flags": []
+}
